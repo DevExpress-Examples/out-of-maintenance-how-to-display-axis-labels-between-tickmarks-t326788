@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/LabelsBetweenTickmarks/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/LabelsBetweenTickmarks/MainWindow.xaml))**
+<!-- default file list end -->
 # How to: display axis labels between tickmarks
 
 
