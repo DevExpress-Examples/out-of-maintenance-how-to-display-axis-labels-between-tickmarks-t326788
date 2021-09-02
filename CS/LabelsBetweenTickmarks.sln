@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
+# Visual Studio 2012
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelsBetweenTickmarks", "LabelsBetweenTickmarks\LabelsBetweenTickmarks.csproj", "{7BB772F2-EBE9-4FB4-9B8F-3E6CD0955DB1}"
